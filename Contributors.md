@@ -157,6 +157,7 @@ _ Jay Kim
 - [Pachi] (https://github.com/pachicodes)
 - [Joe Miao](https://github.com/miaozeyu)
 - Thomas
+- J Zedd
 - [Kevan Lucchini](https://github.com/kevanlucc)
 - [T Cavanagh](https://github.com/tcavan0)
 - [Kate Yanko](https://github.com/kateyanko)
@@ -5251,6 +5252,7 @@ Christian Reyes
 - [Priyanshu Nayan](https://github.com/priyanshunayan)
 - Carol L
 - [Katie Campbell](https://github.com/katyasoup)
+- [Dev Arora](https://github.com/dr0id007)
 - [Riaan Kruger](https://github.com/hpearcem)
 - [Catarina Belém](https://github.com/PastelBelem8)
 - [Max W. Searan](https://github.com/Wes26)
